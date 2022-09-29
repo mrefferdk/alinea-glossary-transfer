@@ -1,0 +1,17 @@
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/console-sandbox
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/console-sandbox.deps.json
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/console-sandbox.runtimeconfig.json
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/console-sandbox.dll
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/console-sandbox.pdb
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.csproj.AssemblyReference.cache
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.AssemblyInfoInputs.cache
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.AssemblyInfo.cs
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.csproj.CoreCompileInputs.cache
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.dll
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/refint/console-sandbox.dll
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.pdb
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.genruntimeconfig.cache
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/ref/console-sandbox.dll
+/Users/thomase/Projects/console-sandbox/console-sandbox/obj/Debug/net6.0/console-sandbox.csproj.CopyComplete
+/Users/thomase/Projects/console-sandbox/console-sandbox/bin/Debug/net6.0/Newtonsoft.Json.dll

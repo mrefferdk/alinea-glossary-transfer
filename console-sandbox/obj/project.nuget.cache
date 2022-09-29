@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3xtSrqtCEADsUILKS8X9EL5o2rlVix35jRXEs9hqKPToc5WjU3mqXN3DdSWtwz0lCmXChrau88v1yRn4etW/g==",
+  "success": true,
+  "projectFilePath": "/Users/thomase/Projects/console-sandbox/console-sandbox/console-sandbox.csproj",
+  "expectedPackageFiles": [
+    "/Users/thomase/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

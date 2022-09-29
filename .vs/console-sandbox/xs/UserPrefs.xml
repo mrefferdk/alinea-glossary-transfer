@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{2FD93F98-63E2-4F31-9428-F0326A677D4F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="console-sandbox/Program.cs">
+    <Files>
+      <File FileName="console-sandbox/Program.cs" Line="36" Column="73" />
+      <File FileName="console-sandbox/ClioGlossaryService.cs" Line="20" Column="13" />
+      <File FileName="console-sandbox/GlossaryDTO.cs" Line="17" Column="62" />
+      <File FileName="console-sandbox/Portal.cs" Line="9" Column="16" />
+      <File FileName="console-sandbox/ClioGlossary.cs" Line="18" Column="1" />
+      <File FileName="console-sandbox/ClioImage.cs" Line="42" Column="6" />
+      <File FileName="console-sandbox/NextWordExplanationService.cs" Line="40" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="console-sandbox" expanded="True">
+            <Node name="console-sandbox" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.console-sandbox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thomase/Projects/console-sandbox/console-sandbox/Program.cs" relfile="console-sandbox/Program.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
