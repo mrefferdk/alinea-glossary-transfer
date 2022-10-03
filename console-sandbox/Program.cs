@@ -11,7 +11,7 @@ using System.Text.Json.Serialization;
 
 class Program
 {
-    public static string NextEndpointUrl { get; set; } = "http://localhost";
+    public static string NextEndpointUrl { get; set; } = "http://localhost:55790/api/Resource/Save";
     
 
     public static async Task Main(string[] args)
@@ -19,13 +19,13 @@ class Program
         
 
         List<Portal> portals = new List<Portal>() {
-            new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","111"),
+            new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","CEC3286C-27FD-4361-AF47-F7C23014AF38"),
+            /*new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
             new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
             new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
             new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
             new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
-            new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
-            new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),
+            new Portal("https://thomase.cliodev.dk/portals/da-ud/?eID=glossary-words&token=17*d0flR3TLs","222"),*/
         };
 
         List<GlossaryDTO> glossaryList = new List<GlossaryDTO>();
@@ -49,8 +49,8 @@ class Program
             }
         }
 
-        //NextWordExplanationService nextService = new NextWordExplanationService(NextEndpointUrl);
-        //_ = nextService.BulkSave(glossaryList);
+        NextWordExplanationService nextService = new NextWordExplanationService(NextEndpointUrl);
+        _ = nextService.BulkSave(glossaryList);
 
 
         string json = JsonSerializer.Serialize(glossaryList);
